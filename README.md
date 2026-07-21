@@ -1,15 +1,15 @@
 # Credit Card Approval Prediction
 
-## 📌 Project Overview
+##  Project Overview
 The Credit Card Approval Prediction project uses Machine Learning to predict whether a customer's credit card application will be approved or rejected based on their financial and personal information. The system helps automate the approval process, reducing manual work and improving decision-making.
 
-## 🎯 Objectives
+##  Objectives
 - Predict credit card approval status.
 - Compare multiple Machine Learning algorithms.
 - Select the best-performing model.
 - Deploy the model using a Flask web application.
 
-## 🛠️ Technologies Used
+## Technologies Used
 - Python
 - Pandas
 - NumPy
@@ -21,13 +21,13 @@ The Credit Card Approval Prediction project uses Machine Learning to predict whe
 - CSS
 - Git & GitHub
 
-## 🤖 Machine Learning Models
+##  Machine Learning Models
 - Logistic Regression
 - Decision Tree
 - Random Forest
 - XGBoost
 
-## 📂 Project Structure
+##  Project Structure
 ```
 Credit-Card-Approval-Prediction/
 │
@@ -41,7 +41,7 @@ Credit-Card-Approval-Prediction/
 └── README.md
 ```
 
-## 🚀 Features
+##  Features
 - Data preprocessing
 - Feature engineering
 - Model training and evaluation
@@ -49,23 +49,23 @@ Credit-Card-Approval-Prediction/
 - Flask web application
 - Easy-to-use interface
 
-## 📊 Dataset
+##  Dataset
 The project uses a publicly available Credit Card Approval dataset containing applicant information such as income, employment details, family status, and other financial attributes.
 
-## ▶️ How to Run
+##  How to Run
 1. Clone the repository.
 2. Install the required libraries.
 3. Run `train_model.py` to train the model.
 4. Run `app.py` to start the Flask application.
 5. Open the local URL in your browser.
 
-## 📌 Future Improvements
+##  Future Improvements
 - Improve model accuracy.
 - Deploy to Render or IBM Cloud.
 - Add user authentication.
 - Build a responsive UI.
 
-## 👨‍💻 Author
+##  Author
 **Guru Sai**
 
 B.Tech – Artificial Intelligence & Data Science
