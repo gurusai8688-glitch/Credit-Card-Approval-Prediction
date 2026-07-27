@@ -68,4 +68,4 @@ The project uses a publicly available Credit Card Approval dataset containing ap
 ##  Author
 **Guru Sai**
 
-B.Tech – Artificial Intelligence & Data Science
+B.Tech – computer Science & engineering
